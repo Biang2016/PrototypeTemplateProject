@@ -1,7 +1,7 @@
-﻿using BiangStudio.GamePlay;
-using BiangStudio.GamePlay.UI;
-using BiangStudio.Log;
-using BiangStudio.Singleton;
+﻿using BiangLibrary.GamePlay;
+using BiangLibrary.GamePlay.UI;
+using BiangLibrary.Log;
+using BiangLibrary.Singleton;
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
